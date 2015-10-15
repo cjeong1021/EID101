@@ -12,11 +12,13 @@ Interview 10/4(1)
 --What are some problems have faced when travelling in NYC?
 
 a.	Ex) Getting lost, traffic jam, crowded, 
+
 	×  No wifi on phone
  	×  Loudness—people talk loudly
  	×  Drugs—seeing people with drugs on the street—feels uncomfortable and unsafe
  	×  No links between “Top Tens” (the apps suggesting places for tourists) and maps
- 	×  Crowdness and No bike lanes, would like to bike if the bikers’ safety is protected (in Netherland everyone bikes)
+ 	×  Crowdness and No bike lanes, would like to bike if the bikers’ safety is 
+ 	protected (in Netherland everyone bikes)
 
 --In NYC, what type of navigation do you use?
 
