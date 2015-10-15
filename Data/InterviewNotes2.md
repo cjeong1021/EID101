@@ -29,7 +29,8 @@ a.	Ex) Getting lost, traffic jam, crowded,
 --If yes, what frustrate you the most about using that type of navigation you mentioned?
 
  	Google map has to be used with WiFi;
- 	The combination of actual map and Google map is a bit complicated but they enjoy that.
+ 	The combination of actual map and Google map is a bit complicated
+ 	but they enjoy that.
  	Plan with Google map, walk with actual map.
 
 --In NYC, what type of transportation do you use to travel around?
@@ -39,7 +40,8 @@ a.	Ex) Getting lost, traffic jam, crowded,
 --What types of problems/concerns have you faced when you used the transportation you mentioned just now? 
 
  	No big problems—New York is fast and easy.
-	 Actually, the combination of top tens and maps is not convenient—getting out of subway/cab/bus and finding the direction again.
+	 Actually, the combination of top tens and maps is not convenient—
+	 getting out of subway/cab/bus and finding the direction again.
 
 --Are you a Smartphone owner?
 
