@@ -132,6 +132,7 @@ Interview 10/4 (3)
 --Are you a Smartphone owner?
 
  Yes
+ 
 --Are you a bike rider?
 
  Yes.
