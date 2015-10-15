@@ -8,7 +8,7 @@ Professor Petrillo
 
 Competition, Technology and Marketing
 
-Our project is to create a personal navigation device (PNS) that gears toward biking tourists who cannot afford to avert their eyes from the road. PNS¡¯s all over the market work toward getting customers from destination A to destination B in the most efficient way possible. There are many such devices that try to accomplish the same thing, from different GPS systems to old-fashioned maps on smartphones. One example of this device was in an Institute of Electrical and Electronics Engineers journal; a PNS was tested to use an algorithm to find the best possible route, integrating multiple variables such as arrival, departure and detours.
+Our project is to create a personal navigation device (PNS) that gears toward biking tourists who cannot afford to avert their eyes from the road. PNS's all over the market work toward getting customers from destination A to destination B in the most efficient way possible. There are many such devices that try to accomplish the same thing, from different GPS systems to old-fashioned maps on smartphones. One example of this device was in an Institute of Electrical and Electronics Engineers journal; a PNS was tested to use an algorithm to find the best possible route, integrating multiple variables such as arrival, departure and detours.
 
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1283747
 
