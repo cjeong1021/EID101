@@ -69,46 +69,79 @@ Didn’t find Proper Restaurants (maybe add to features of product?)
 
 Interview 10/4 (2)
 
-?	Do you live outside of New York City? 
+--Do you live outside of New York City? 
+
 Yes, Denver
-?	If not, how long have you been staying in NYC, and planning to stay?
+
+--If not, how long have you been staying in NYC, and planning to stay?
+
 Planning to stay for the weekend. Came on Friday.
-?	What are some problems have faced when travelling in NYC?
+
+--What are some problems have faced when travelling in NYC?
+
 Not able to communicate with friends that often
-?	In NYC, what type of navigation do you use?
+
+--In NYC, what type of navigation do you use?
+
 Google map
-a.	If yes, what frustrate you the most about using that type of navigation you mentioned?
+
+--If yes, what frustrate you the most about using that type of navigation you mentioned?
+
 Nothing really, except that Google maps need WiFi.
-?	In NYC, what type of transportation do you use to travel around?
- .	Taxi(uber), walking, and subway.
-?	What types of problems/concerns have you faced when you used the transportation you mentioned just now? 
+
+--In NYC, what type of transportation do you use to travel around?
+ 
+ Taxi(uber), walking, and subway.
+
+--What types of problems/concerns have you faced when you used the transportation you mentioned just now? 
+
 Taxi is too expensive but uber seems ok to be an alternate.
-?	Are you a Smartphone owner?
+
+--Are you a Smartphone owner?
+
 Yes
 
 
 
 Interview 10/4 (3)
 
-?	Do you live outside of New York City? 
+--Do you live outside of New York City? 
+
 Yes, Seattle
-?	If not, how long have you been staying in NYC, and planning to stay?
+
+--If not, how long have you been staying in NYC, and planning to stay?
+
 Planning to stay for the weekend. Came on Thursday night.
-?	What are some problems have faced when travelling in NYC?
+
+--What are some problems have faced when travelling in NYC?
+
 Google maps found to be not as updated
-?	In NYC, what type of navigation do you use?
+
+--In NYC, what type of navigation do you use?
+
 Google map
-a.	If yes, what frustrate you the most about using that type of navigation you mentioned?
+
+--If yes, what frustrate you the most about using that type of navigation you mentioned?
+
 Google map didn’t work on the phone—it doesn’t update where she is as she go along (since there’s no WiFi)
-?	In NYC, what type of transportation do you use to travel around?
+
+--In NYC, what type of transportation do you use to travel around?
+
 Walking, and subway.
-?	What types of problems/concerns have you faced when you used the transportation you mentioned just now? 
+
+--What types of problems/concerns have you faced when you used the transportation you mentioned just now? 
+
 Google map not updated, making traveling confusing.
-?	Are you a Smartphone owner?
+
+--Are you a Smartphone owner?
+
 Yes
-?	Are you a bike rider?
+--Are you a bike rider?
+
 Yes.
- .	If yes, what's the primary purpose of using your bike?
+
+--If yes, what's the primary purpose of using your bike?
+
 Mostly for exercising. Sometimes bike for leisure. Never for work because biking to work seems too dangerous.
 
 
