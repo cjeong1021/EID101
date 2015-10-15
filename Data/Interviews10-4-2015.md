@@ -12,31 +12,32 @@ Interview Questions:
 
 		-If yes, what frustrate you the most about using that type of navigation you mentioned?
 
-●	In NYC, what type of transportation do you use to travel around?
+	- In NYC, what type of transportation do you use to travel around?
 
-a.	Taxi
+	a.	Taxi
+	b.	Subway
+	c.	Bicycle 
+	d.	Walk 
 
-b.	Subway
+	- What types of problems/concerns have you faced when you used the transportation you mentioned just now? 
+	
+	- Are you a Smartphone owner?
 
-c.	Bicycle 
+	a.	Yes/no
 
-d.	Walk 
+	- Are you a bike rider?
 
-●	What types of problems/concerns have you faced when you used the transportation you mentioned just now? 
+	a.	If yes, what's the primary purpose of using your bike?
 
-●	Are you a Smartphone owner?
+	i.	commute
+	ii.	Leisure 
+	iii.	Exercise 
 
-a.	Yes/no
 
-●	Are you a bike rider?
 
-a.	If yes, what's the primary purpose of using your bike?
 
-i.	commute
 
-ii.	Leisure 
 
-iii.	Exercise 
 
 
 
