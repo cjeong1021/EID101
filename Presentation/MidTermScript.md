@@ -1,12 +1,12 @@
 Slide 1 (Bob)
 
-1.	Title & Our Picture- an introduction 
+1. Title & Our Picture- an introduction 
 
 Good morning.  We are from EID 101D: Smart, Connected Devices. I am Bob and this is Jai, our  members: Jimmy, Paul, and Chris. 
 
 Slide 2 (Bob) 
 
-2.	Explain where we started (Bob)
+2. Explain where we started (Bob)
 
 More than 500,000 people ride bicycles frequently in New York City. However,  It can be dangerous to navigate through the city while riding and looking at the screen at the same time.  especially for  out of state and international tourists. 
 
@@ -50,7 +50,7 @@ So we concluded that our solution wasn¡¯t matching the priorities of the custo
 
 7. Future plans (Bob)
 
-At this stage, we must conduct more customer interviews from the same customer segment. However, we must reexamine their true pains clearly shown by their interviews and design a product that could solve their problems. Although, we have abandoned our original idea, we are still interested in navigation, but if their pains are not related to navigation, we will look into that as well. Thank you
+At this stage, we must conduct more customer interviews from the same customer segment. However, we must reexamine their true pains clearly shown by their interviews and design a product that could solve their problems. Although, we have abandoned our original idea, we are still interested in navigation, but if their pains are not related to navigation, we will look into that as well. Thank you.
 
 
 
