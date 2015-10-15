@@ -9,7 +9,7 @@ We are a group exploring possible products to address tourist navigation in New 
 
  NYC has a footfall of over 50 million tourists a year, consisting of approximately 42.9 million domestic visitors and 11.4 million international visitors. More than 500,000 people ride bicycles frequently in New York City. 
  However,  It can be dangerous to navigate through the city while riding and looking at the screen at the same time.  especially for out of state and international tourists. 
-So, we came up with an idea. It was  an audio wireless navigational device. So that bikers can  keep their eyes on the road by hearing commands from a bluetooth earphone connected to your smartphone app. 
+So, we came up with an idea. It was  an audio wireless navigational device. So that bikers can  keep their eyes on the road by hearing commands from a bluetooth earphone connected to their smartphone app. 
 Our original idea also involved a wireless earpiece device that would give audio cues to users as they biked through the streets of NYC. 
 
 # Targeted Customer Segment 
@@ -19,6 +19,7 @@ Those international tourists come to New York City, primarily relying on Hotel W
 
 # Our Product
 
+As stated above,  our product is an audio wireless (bluetooth) navigational device designed for bikers so that they can  keep their eyes on the road by hearing commands from a bluetooth earphone connected to their smartphone app. 
 Beyond the audio navigation feature, we decided to make a waterproof earpiece with a temporary sim card, allowing a hotspot to connect with the tourists smartphone and google maps. We also added a feature called “Crime check” that would actively connect with an online NYPD database to inform them of crimes in the vicinity.  We also added rentals to economize the product.
 
 # Challenges and Competitions Faced
