@@ -1,66 +1,61 @@
 Interview Questions:
-¡ñ	Do you live outside of New York City? 
-¡ñ	If not, how long have you been staying in NYC, and planning to stay?
-¡ñ	What are some problems have faced when travelling in NYC?
-a.	Ex) Getting lost, traffic jam, crowded, 
-¡ñ	In NYC, what type of navigation do you use?
-a.	If yes, what frustrate you the most about using that type of navigation you mentioned?
-¡ñ	In NYC, what type of transportation do you use to travel around?
+	- Do you live outside of New York City? 
+	- If not, how long have you been staying in NYC, and planning to stay?
+	- What are some problems have faced when travelling in NYC
+		- Getting lost, traffic jam, crowded, 
+	- In NYC, what type of navigation do you use?
+		-If yes, what frustrate you the most about using that type of navigation you mentioned?
+â—	In NYC, what type of transportation do you use to travel around?
 a.	Taxi
 b.	Subway
 c.	Bicycle 
 d.	Walk 
-¡ñ	What types of problems/concerns have you faced when you used the transportation you mentioned just now? 
-¡ñ	Are you a Smartphone owner?
+â—	What types of problems/concerns have you faced when you used the transportation you mentioned just now? 
+â—	Are you a Smartphone owner?
 a.	Yes/no
-¡ñ	Are you a bike rider?
+â—	Are you a bike rider?
 a.	If yes, what's the primary purpose of using your bike?
 i.	commute
 ii.	Leisure 
 iii.	Exercise 
 
 
-
-
-
-?
-
 Interview 
 
 Chris & Bob
 First Interview
-¡ñ	He is from Canada and late 20s 
-¡ñ	He has been staying in NYC for two days and he is planning to stay for a week 
-¡ñ	He finds subways quite confusing, but it is cheaper than any other transportations 
-¡ñ	He is a bike rider at his home country.
+â—	He is from Canada and late 20s 
+â—	He has been staying in NYC for two days and he is planning to stay for a week 
+â—	He finds subways quite confusing, but it is cheaper than any other transportations 
+â—	He is a bike rider at his home country.
 Second Interview
-¡ñ	He is from Russia and plans to live in the city for a week 
-¡ñ	He is a bike rider and he plans to ride a bike from Queens to Brooklyn because there is a lack of public transportation between those two locations. 
-¡ñ	He finds subways very crowded, but other than that, he finds it useful to use subways. 
+â—	He is from Russia and plans to live in the city for a week 
+â—	He is a bike rider and he plans to ride a bike from Queens to Brooklyn because there is a lack of public transportation between those two locations. 
+â—	He finds subways very crowded, but other than that, he finds it useful to use subways. 
 Third Interview 
-¡ñ	He is from a tourist from Germany
-¡ñ	He relies on Wifi, not personal hotspot in NYC which is very inconvenient. 
-¡ñ	He wants to save money because buying a carrier for a week is too expensive. 
-¡ñ	Therefore, he relies on subway and public wifi
-¡ñ	He is a bike rider and he uses a traditional map to navigate throughout the city. 
-¡ñ	He wants to ride a bike especially in Central Park, and he looks forward to borrow a bike from a rental place. 
+â—	He is from a tourist from Germany
+â—	He relies on Wifi, not personal hotspot in NYC which is very inconvenient. 
+â—	He wants to save money because buying a carrier for a week is too expensive. 
+â—	Therefore, he relies on subway and public wifi
+â—	He is a bike rider and he uses a traditional map to navigate throughout the city. 
+â—	He wants to ride a bike especially in Central Park, and he looks forward to borrow a bike from a rental place. 
 
 Paul & Jimmy
 
 Interview 10/4(1)
-¡ñ	Do you live outside of New York City?
+â—	Do you live outside of New York City?
 Yes, in Netherlands. (live in Netherlands but are from Belgium and France.)
-¡ñ	If not, how long have you been staying in NYC, and planning to stay?
+â—	If not, how long have you been staying in NYC, and planning to stay?
 Today is the 5th day, planning to stay for 8 days.
 Currently staying around Times Square.
-¡ñ	What are some problems have faced when travelling in NYC?
+â—	What are some problems have faced when travelling in NYC?
 1.	Ex) Getting lost, traffic jam, crowded,
-¡Á  No wifi on phone
-¡Á  Loudness¡ªpeople talk loudly
-¡Á  Drugs¡ªseeing people with drugs on the street¡ªfeels uncomfortable and unsafe
-¡Á  No links between ¡°Top Tens¡± (the apps suggesting places for tourists) and maps
-¡Á  Crowdness and No bike lanes, would like to bike if the bikers¡¯ safety is protected (in Netherland everyone bikes)
-¡ñ	In NYC, what type of navigation do you use?
+Ã—  No wifi on phone
+Ã—  Loudnessâ€”people talk loudly
+Ã—  Drugsâ€”seeing people with drugs on the streetâ€”feels uncomfortable and unsafe
+Ã—  No links between â€œTop Tensâ€ (the apps suggesting places for tourists) and maps
+Ã—  Crowdness and No bike lanes, would like to bike if the bikersâ€™ safety is protected (in Netherland everyone bikes)
+â—	In NYC, what type of navigation do you use?
 Google maps on phone when WiFi is available;
 Actual map to plan where to visit.
 Tries to travel around the city in order to feel the city.
@@ -68,21 +63,21 @@ Tries to travel around the city in order to feel the city.
 Google map has to be used with WiFi;
 The combination of actual map and Google map is a bit complicated but they enjoy that.
 Plan with Google map, walk with actual map.
-¡ñ	In NYC, what type of transportation do you use to travel around?
+â—	In NYC, what type of transportation do you use to travel around?
 Mainly walking + subway. Cab used just for going to JFK. Tour bus used for once to travel around to visit.
-¡ñ	What types of problems/concerns have you faced when you used the transportation you mentioned just now?
-No big problems¡ªNew York is fast and easy.
-Actually, the combination of top tens and maps is not convenient¡ªgetting out of subway/cab/bus and finding the direction again.
-¡ñ	Are you a Smartphone owner?
+â—	What types of problems/concerns have you faced when you used the transportation you mentioned just now?
+No big problemsâ€”New York is fast and easy.
+Actually, the combination of top tens and maps is not convenientâ€”getting out of subway/cab/bus and finding the direction again.
+â—	Are you a Smartphone owner?
 Yes
-¡ñ	Are you a bike rider?
+â—	Are you a bike rider?
 Yes, in Netherland everyone bikes.
  .              If yes, what's the primary purpose of using your bike?
 Bikes are used both for leisure time, exercise, and commuting to work. The husband uses mostly for commuting to work, but also bikes for exercise. The wife bikes for leisure and exercise more.
-¡ñ	        	Other concerns?
+â—	        	Other concerns?
 Hope to see an app developed for route of biking that avoids main avenues and crowded areas to make travelling more friendly to bikers.
-Hope to see audio navigation rather than screen navigations¡ªmore convenient the better.
-Didn¡¯t find Proper Restaurants (maybe add to features of product?)
+Hope to see audio navigation rather than screen navigationsâ€”more convenient the better.
+Didnâ€™t find Proper Restaurants (maybe add to features of product?)
  
  
  
@@ -94,44 +89,44 @@ Didn¡¯t find Proper Restaurants (maybe add to features of product?)
 
 Interview 10/4 (2)
  
-¡¤         Do you live outside of New York City?
+Â·         Do you live outside of New York City?
 Yes, Denver
-¡¤         If not, how long have you been staying in NYC, and planning to stay?
+Â·         If not, how long have you been staying in NYC, and planning to stay?
 Planning to stay for the weekend. Came on Friday.
-¡¤         What are some problems have faced when travelling in NYC?
+Â·         What are some problems have faced when travelling in NYC?
 Not able to communicate with friends that often
-¡¤         In NYC, what type of navigation do you use?
+Â·         In NYC, what type of navigation do you use?
 Google map
 a.            If yes, what frustrate you the most about using that type of navigation you mentioned?
 Nothing really, except that Google maps need WiFi.
-¡¤         In NYC, what type of transportation do you use to travel around?
+Â·         In NYC, what type of transportation do you use to travel around?
  .              Taxi(uber), walking, and subway.
-¡¤         What types of problems/concerns have you faced when you used the transportation you mentioned just now?
+Â·         What types of problems/concerns have you faced when you used the transportation you mentioned just now?
 Taxi is too expensive but uber seems ok to be an alternate.
-¡¤         Are you a Smartphone owner?
+Â·         Are you a Smartphone owner?
 Yes
  
  
  
 Interview 10/4 (3)
  
-¡¤         Do you live outside of New York City?
+Â·         Do you live outside of New York City?
 Yes, Seattle
-¡¤         If not, how long have you been staying in NYC, and planning to stay?
+Â·         If not, how long have you been staying in NYC, and planning to stay?
 Planning to stay for the weekend. Came on Thursday night.
-¡¤         What are some problems have faced when travelling in NYC?
+Â·         What are some problems have faced when travelling in NYC?
 Google maps found to be not as updated
-¡¤         In NYC, what type of navigation do you use?
+Â·         In NYC, what type of navigation do you use?
 Google map
 a.            If yes, what frustrate you the most about using that type of navigation you mentioned?
-Google map didn¡¯t work on the phone¡ªit doesn¡¯t update where she is as she go along (since there¡¯s no WiFi)
-¡¤         In NYC, what type of transportation do you use to travel around?
+Google map didnâ€™t work on the phoneâ€”it doesnâ€™t update where she is as she go along (since thereâ€™s no WiFi)
+Â·         In NYC, what type of transportation do you use to travel around?
 Walking, and subway.
-¡¤         What types of problems/concerns have you faced when you used the transportation you mentioned just now?
+Â·         What types of problems/concerns have you faced when you used the transportation you mentioned just now?
 Google map not updated, making traveling confusing.
-¡¤         Are you a Smartphone owner?
+Â·         Are you a Smartphone owner?
 Yes
-¡ñ	Are you a bike rider?
+â—	Are you a bike rider?
 Yes.
  .              If yes, what's the primary purpose of using your bike?
 Mostly for exercising. Sometimes bike for leisure. Never for work because biking to work seems too dangerous.
@@ -141,29 +136,29 @@ Mostly for exercising. Sometimes bike for leisure. Never for work because biking
 
 Jai 
 Person #1 (Approx. 4 minutes) (Times Square)
-¡¤         He is from China, here on a 3 week vacation to tour the city.
-¡¤         He has never travelled to New York City before, this is his first time.
-¡¤         He mostly walks around wherever he has to go (appears very fit) but for long distances, he prefers taking the subway even though it is a little difficult to navigate and expensive. He finds that the subway is unexpectedly delayed and can get very suffocating inside due to the crowd.
-¡¤         He uses Google Maps on his smartphone (iPhone 6), but he finds some aspects frustrating such as occasional errors in navigation.
-¡¤         He is a bike (bicycle) rider in China, it is rather popular where he stays. He would love to find an economical rental for a bicycle, but he finds the prospect of biking in New York City scary due to his unfamiliarity with the city and its unsafe regions, and the huge amount of cars compared to bike lanes.
+Â·         He is from China, here on a 3 week vacation to tour the city.
+Â·         He has never travelled to New York City before, this is his first time.
+Â·         He mostly walks around wherever he has to go (appears very fit) but for long distances, he prefers taking the subway even though it is a little difficult to navigate and expensive. He finds that the subway is unexpectedly delayed and can get very suffocating inside due to the crowd.
+Â·         He uses Google Maps on his smartphone (iPhone 6), but he finds some aspects frustrating such as occasional errors in navigation.
+Â·         He is a bike (bicycle) rider in China, it is rather popular where he stays. He would love to find an economical rental for a bicycle, but he finds the prospect of biking in New York City scary due to his unfamiliarity with the city and its unsafe regions, and the huge amount of cars compared to bike lanes.
 
 Person #2 (Approx. 5 minutes) (Times Square)
-¡¤         He is from London, on an internship, and he does want to enjoy all the tourist spots of the city before heading back home.
-¡¤         This is his first time in NYC. 
-¡¤         He always takes the subway wherever he has to go, as he finds it cheap and convenient. He has also used the NYC tour buses once and quite enjoyed the experience.
-¡¤         He uses Apple maps (I was surprised, and upon asking why), he says that it works very well with his iPhone in the US, but he uses Google maps back in England.
-¡¤         He uses public transport such as buses back home to commute to university and work.
-¡¤         He would prefer not to bike in the city because he feels it can be extremely exhausting and he wouldn¡¯t wanna pass through some of the more ¡°risky¡± neighborhoods.
+Â·         He is from London, on an internship, and he does want to enjoy all the tourist spots of the city before heading back home.
+Â·         This is his first time in NYC. 
+Â·         He always takes the subway wherever he has to go, as he finds it cheap and convenient. He has also used the NYC tour buses once and quite enjoyed the experience.
+Â·         He uses Apple maps (I was surprised, and upon asking why), he says that it works very well with his iPhone in the US, but he uses Google maps back in England.
+Â·         He uses public transport such as buses back home to commute to university and work.
+Â·         He would prefer not to bike in the city because he feels it can be extremely exhausting and he wouldnâ€™t wanna pass through some of the more â€œriskyâ€ neighborhoods.
 
 Person #3 (Approx. 8 minutes) (Near Times Square) 
-¡¤         She is a local in New York City, appearing to be in her mid 20¡¯s.
-¡¤         She has been living in the New York City for the past 7 years.
-¡¤         She uses a combination of MTA buses, subway and walking to get to her destination, though her first preference is to walk.
-¡¤         She finds the subway claustrophobic, and hence prefers to walk if she can or take an MTA bus, but the latter is expensive.
-¡¤         She used physical maps when she first arrived in NYC, but now she keeps pictures of MTA subway maps on her smartphone and uses Google Maps to navigate.  
-¡¤         She would never choose to bike in New York city because there are no ¡°protected¡± bike lanes.
-¡¤         After informing her a bit about my idea, she said that she liked the audio based concept but found it redundant given that one wouldn¡¯t choose to bike at all since there are so few protected bike lanes, allowing easy accidents and fatalities with motor vehicles, explaining the vulnerability of being completely exposed on a bike versus steel cars that can seriously injure you in a myriad of ways. She also said that motorists and pedestrians are not big fans of cyclists here. 
-¡¤         She used to be a bike rider where she originally came from, but discontinued that practice here due to above reasons.
+Â·         She is a local in New York City, appearing to be in her mid 20â€™s.
+Â·         She has been living in the New York City for the past 7 years.
+Â·         She uses a combination of MTA buses, subway and walking to get to her destination, though her first preference is to walk.
+Â·         She finds the subway claustrophobic, and hence prefers to walk if she can or take an MTA bus, but the latter is expensive.
+Â·         She used physical maps when she first arrived in NYC, but now she keeps pictures of MTA subway maps on her smartphone and uses Google Maps to navigate.  
+Â·         She would never choose to bike in New York city because there are no â€œprotectedâ€ bike lanes.
+Â·         After informing her a bit about my idea, she said that she liked the audio based concept but found it redundant given that one wouldnâ€™t choose to bike at all since there are so few protected bike lanes, allowing easy accidents and fatalities with motor vehicles, explaining the vulnerability of being completely exposed on a bike versus steel cars that can seriously injure you in a myriad of ways. She also said that motorists and pedestrians are not big fans of cyclists here. 
+Â·         She used to be a bike rider where she originally came from, but discontinued that practice here due to above reasons.
  
  
 Pains (presentation)
