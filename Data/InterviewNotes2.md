@@ -53,11 +53,14 @@ a.	Ex) Getting lost, traffic jam, crowded,
 
 --If yes, what's the primary purpose of using your bike?
 
- 	Bikes are used both for leisure time, exercise, and commuting to work. The husband uses mostly for commuting to work, but also bikes for exercise. The wife bikes for leisure and exercise more.
+ 	Bikes are used both for leisure time, exercise, and commuting to work. 
+ 	The husband uses mostly for commuting to work, but also bikes for exercise. 
+ 	The wife bikes for leisure and exercise more.
 
 --Other concerns?
 
- 	Hope to see an app developed for route of biking that avoids main avenues and crowded areas to make travelling more friendly to bikers.
+ 	Hope to see an app developed for route of biking that avoids main avenues 
+ 	and crowded areas to make travelling more friendly to bikers.
  	Hope to see audio navigation rather than screen navigations—more convenient the better.
  	Didn’t find Proper Restaurants (maybe add to features of product?)
 
