@@ -3,12 +3,12 @@
 <h3>I. Phase 1 (Brainstorm) Due date 29/10/2015 (Thursday) </h3>
 
 <b>  A. Value Proposition </b>
-	
-        1. Pains/Gains/Customer Segment 
-        2. Name of the product 
-        3. Interview (this weekend) 
-        4. Mass Facebook Survey Data 
-            a) https://www.surveymonkey.com/blog/2015/03/18/2-tips-get-actionable-targeted-feedback-business/
+
+   <p>1. Pains/Gains/Customer Segment 
+2. Name of the product 
+3. Interview (this weekend) 
+4. Mass Facebook Survey Data 
+  a) https://www.surveymonkey.com/blog/2015/03/18/2-tips-get-actionable-targeted-feedback-business/</p>
 
 <b>  B. Features</b>
 
@@ -16,47 +16,47 @@
 
 <b>  A. Design </b>
 
-Autocad 
-Logo
-Group decision
-Phase 3 (Pitching/Fake Web) 
-Kickstarter Page/Fake poster Due 08/11/2015 (Next Monday) 
-Read about how to make Kickstarter page sucessful and eye-catching
-Infographic & Cool Charts 
-https://www.kickstarter.com/projects/1714346163/auravisor-virtual-reality-head-mounted-computer?ref=category_featured
-Logo and Name of product (SPOTRA)
-Instruction
-Infographic - Features
-Make it into a table and compare with old versions of hotspot 
-*Videos ( Video - less than 90 sec, Visual & Animation, Ethos, pathos, logos, Who¡¯s speaking?)
-Script
-Autocad Design
-Photoshop & pictures of us working 
-Tourist spots 
-Animation (Probably GIF) 
-Pitching at the airport with foreigners 
-get contact information & catch up & use quotes 
-Plan for launching 
-Business Canvas Model
-Channels
-Where is it going to be launched?
-How do people return the device? 
-Customer Relationships
-and others 
-Pitch 
-Going to the airport 
-Landing Page
-Get information 
-Popular blogs for looking at: Amazon SS3, WordPress, Gizmodo, Unbounce, 
-Phase 4 (Prototyping) Get Started Right after 
-Get Final Purchase lists 
-Plastics 
-Chips 
-3D Printing 
-Contract 
-Contract with Carriers 
-Phase 5 (Final Exam) Try to Get it done by December 
-Make a great story out of it
+1. Autocad 
+B. Logo
+1. Group decision
+III. Phase 3 (Pitching/Fake Web) 
+A. Kickstarter Page/Fake poster Due 08/11/2015 (Next Monday) 
+1. Read about how to make Kickstarter page sucessful and eye-catching
+- Infographic & Cool Charts 
+- https://www.kickstarter.com/projects/1714346163/auravisor-virtual-reality-head-mounted-computer?ref=category_featured
+2. Logo and Name of product (SPOTRA)
+3. Instruction
+4. Infographic - Features
+a) Make it into a table and compare with old versions of hotspot 
+5. *Videos ( Video - less than 90 sec, Visual & Animation, Ethos, pathos, logos, Who¡¯s speaking?)
+a) Script
+b) Autocad Design
+c) Photoshop & pictures of us working 
+d) Tourist spots 
+6. Animation (Probably GIF) 
+B. Pitching at the airport with foreigners 
+- Get contact information & catch up & use quotes 
+C. Plan for launching 
+1. Business Canvas Model
+a) Channels
+(1)Where is it going to be launched?
+(2)How do people return the device? 
+b) Customer Relationships
+c) and others 
+D. Pitch 
+1. Going to the airport 
+2. Landing Page
+3. Get information 
+4. Popular blogs for looking at: Amazon SS3, WordPress, Gizmodo, Unbounce, 
+IV. Phase 4 (Prototyping) Get Started Right after 
+A. Get Final Purchase lists 
+1. Plastics 
+2. Chips 
+3. 3D Printing 
+B. Contract 
+1. Contract with Carriers 
+V. Phase 5 (Final Exam) Try to Get it done by December 
+A. Make a great story out of it
 
 
 
