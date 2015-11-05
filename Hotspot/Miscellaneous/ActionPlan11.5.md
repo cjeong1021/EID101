@@ -1,5 +1,7 @@
 # Action Steps 
 
+<h2>Stage 1</h2>
+
 <h3>I. Phase 1 (Brainstorm) Due date 29/10/2015 (Thursday) </h3>
 
 <b>  A. Value Proposition </b>
@@ -16,47 +18,63 @@
 
 <b>  A. Design </b>
 
-1. Autocad 
-B. Logo
-1. Group decision
-III. Phase 3 (Pitching/Fake Web) 
-A. Kickstarter Page/Fake poster Due 08/11/2015 (Next Monday) 
-1. Read about how to make Kickstarter page sucessful and eye-catching
-- Infographic & Cool Charts 
-- https://www.kickstarter.com/projects/1714346163/auravisor-virtual-reality-head-mounted-computer?ref=category_featured
-2. Logo and Name of product (SPOTRA)
-3. Instruction
-4. Infographic - Features
-a) Make it into a table and compare with old versions of hotspot 
-5. *Videos ( Video - less than 90 sec, Visual & Animation, Ethos, pathos, logos, Who¡¯s speaking?)
-a) Script
-b) Autocad Design
-c) Photoshop & pictures of us working 
-d) Tourist spots 
-6. Animation (Probably GIF) 
-B. Pitching at the airport with foreigners 
-- Get contact information & catch up & use quotes 
-C. Plan for launching 
-1. Business Canvas Model
-a) Channels
-(1)Where is it going to be launched?
-(2)How do people return the device? 
-b) Customer Relationships
-c) and others 
-D. Pitch 
-1. Going to the airport 
-2. Landing Page
-3. Get information 
-4. Popular blogs for looking at: Amazon SS3, WordPress, Gizmodo, Unbounce, 
-IV. Phase 4 (Prototyping) Get Started Right after 
-A. Get Final Purchase lists 
-1. Plastics 
-2. Chips 
-3. 3D Printing 
-B. Contract 
-1. Contract with Carriers 
-V. Phase 5 (Final Exam) Try to Get it done by December 
-A. Make a great story out of it
+   <p>1. Autocad </p>
+
+<b>   B. Logo</b>
+
+   <p>1. Group decision</p>
+
+<h3>III. Phase 3 (Pitching/Fake Web) </h3>
+
+<b>   A. Kickstarter Page/Fake poster Due 08/11/2015 (Next Monday) </b>
+
+   <p>1. Read about how to make Kickstarter page sucessful and eye-catching </p>
+<p>   - Infographic & Cool Charts </p>
+<p>   - https://www.kickstarter.com/projects/1714346163/auravisor-virtual-reality-head-mounted-computer?ref=category_featured</p>
+   <p>2. Logo and Name of product (SPOTRA) </p>
+   <p>3. Instruction </p>
+   <p>4. Infographic - Features</p>
+<p>   a) Make it into a table and compare with old versions of hotspot </p>
+   <p>5. *Videos ( Video - less than 90 sec, Visual & Animation, Ethos, pathos, logos, Who¡¯s speaking?)</p>
+<p>   a) Script</p>
+<p>   b) Autocad Design</p>
+<p>   c) Photoshop & pictures of us working </p>
+<p>   d) Tourist spots </p>
+   <p>6. Animation (Probably GIF) </p>
+
+<b>   B. Pitching at the airport with foreigners </b>
+
+<p>- Get contact information & catch up & use quotes </p>
+
+<b>   C. Plan for launching </b>
+<p>1. Business Canvas Model</p>
+<p>   a) Channels</p>
+<p>      (1)Where is it going to be launched?</p>
+<p>      (2)How do people return the device? </p>
+<p>   b) Customer Relationships</p>
+<p>   c) and others </p>
+
+<b>   D. Pitch </b>
+<p>1. Going to the airport</p> 
+<p>2. Landing Page</p>
+<p>3. Get information </p>
+<p>4. Popular blogs for looking at: Amazon SS3, WordPress, Gizmodo, Unbounce, 
+
+<h3>IV. Phase 4 (Prototyping) Get Started Right after </h3>
+
+<b>   A. Get Final Purchase lists </b>
+
+<p>1. Plastics </p>
+<p>2. Chips </p>
+<p>3. 3D Printing</p> 
+
+<b>B. Contract </b>
+
+</p>1. Contract with Carriers </p>
+
+<h3>V. Phase 5 (Final Exam) Try to Get it done by December </h3>
+
+<b>A. Make a great story out of it</b>
 
 
 
@@ -65,28 +83,28 @@ A. Make a great story out of it
 
 
 
-Stage 2 03/11/2015 - 10/11/2015 
+<h2>Stage 2 03/11/2015 - 10/11/2015 </h2>
 
-ROLES
+<b>ROLES</b>
 
-Bob: 
-Github Page Design (Monday Night) 
-Feature & Infographic (Monday Night)
-Action Plan Chart 
-Feature Chart 
-Dimension Chart
-Chris
-Animation (Gif) 
-What to put in the video & research (Friday night) 
-Jai
-Value Proposition (Done) 
-Interview During the weekend, specifically hotspot related (Weekend) 
-Brainstorm how we are going to pitch at the airport (Weekend)
-Paul
-Solid Work (Wednesday) 
-Presentation (Wednesday) 
-Jimmy 
-Organize github (Weekend) 
+<p>Bob:</p> 
+<p>--Github Page Design (Monday Night) </p>
+<p>--Feature & Infographic (Monday Night)</p>
+<p>   Action Plan Chart </p>
+<p>   Feature Chart </p>
+<p>   Dimension Chart</p>
+<p>Chris</p>
+<p>--Animation (Gif) </p>
+<p>--What to put in the video & research (Friday night) </p>
+<p>Jai</p>
+<p>--Value Proposition (Done) </p>
+<p>--Interview During the weekend, specifically hotspot related (Weekend) </p>
+<p>--Brainstorm how we are going to pitch at the airport (Weekend)</p>
+<p>Paul</p>
+<p>--Solid Work (Wednesday) </p>
+<p>--Presentation (Wednesday) </p>
+<p>Jimmy </p>
+<p>--Organize github (Weekend) </p>
 
 
 Stage 3 Video Designing & Prepare for our Final Pitching 
