@@ -1,11 +1,7 @@
 Paul Kang
-
 Professor Petrillo
-
 EID101-D
-
 10/1/2015
-
 Individual Value Proposition Research
 
 Potential Competitors
