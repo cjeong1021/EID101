@@ -1,6 +1,6 @@
 # EXECUTIVE SUMMARY OF EVENTS FOR WI-FI HOTSPOT: 
 <h2> I. What we have done 
-  <h3>A. Customer Segment
+  <h3>A. Customer Segment<h3/>
 
 International visitors in New York City, between a younger age range of 18-35, looking to stay for a short period of time (1-4 weeks) in the city, who do NOT already have a carrier in the United States (such as AT&T, Verizon or T-Mobile).
 
