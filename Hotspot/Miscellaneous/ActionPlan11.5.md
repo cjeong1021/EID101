@@ -1,14 +1,14 @@
-Action Steps 
-Phase 1 (Brainstorm) Due date 29/10/2015 (Thursday) 
-Value Proposition 
-Pains/Gains/Customer Segment 
-Name of the product 
-Interview (this weekend) 
-Mass Facebook Survey Data 
-https://www.surveymonkey.com/blog/2015/03/18/2-tips-get-actionable-targeted-feedback-business/
-Features
-Phase 2 (Designing) Due date 01/11/2015 (Next Monday) 
-Design
+# Action Steps 
+<blue>I. Phase 1 (Brainstorm) Due date 29/10/2015 (Thursday) </blue>
+\t<b>A. Value Proposition </b>
+\t\t1. Pains/Gains/Customer Segment 
+\t\t2. Name of the product 
+\t\t3. Interview (this weekend) 
+\t\t4. Mass Facebook Survey Data 
+\t\t\ta) https://www.surveymonkey.com/blog/2015/03/18/2-tips-get-actionable-targeted-feedback-business/
+\t<b>B. Features</b>
+<blue>II. Phase 2 (Designing) Due date 01/11/2015 (Next Monday) </blue>
+\tA. Design
 Autocad 
 Logo
 Group decision
@@ -21,7 +21,7 @@ Logo and Name of product (SPOTRA)
 Instruction
 Infographic - Features
 Make it into a table and compare with old versions of hotspot 
-*Videos ( Video - less than 90 sec, Visual & Animation, Ethos, pathos, logos, Who¡¯s speaking?)
+*Videos ( Video - less than 90 sec, Visual & Animation, Ethos, pathos, logos, WhoÂ¡Â¯s speaking?)
 Script
 Autocad Design
 Photoshop & pictures of us working 
