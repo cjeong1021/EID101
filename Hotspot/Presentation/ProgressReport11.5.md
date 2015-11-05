@@ -22,9 +22,9 @@
 
 <h2>II. Current Stage:</h2>
   <h3>A. Weebly </h3>
-    1. http://traspot.weebly.com
-    
-   2. Github Page (Landing page for advertising the product)
+1. http://traspot.weebly.com
+
+2. Github Page (Landing page for advertising the product)
   <h3>B. Autocad & Solid Work</h3>
   Screenshot of design
   <h3>C. Prototyping </h3>
