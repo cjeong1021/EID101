@@ -1,12 +1,12 @@
 # Group Meeting Log
 
-<h2>10/27/2015</h2>
-	<b>I. What We have</b>
+<h2>10/27/2015<\h2>
+	<b>I. What We have<\b>
 	       A.    Fixed Customer Segment
 	       B.    Value Proposition
 		     1.     Gains
 		     2.     Pains
- 	<b>II. What's next?</b>
+ 	<b>II. What's next?<\b>
 		A.    Plan
 		     1.     Design the product (Autocad)
 		     2.     Design Logo
@@ -15,7 +15,8 @@
 		     5.     Instructions
 		     6.     Return Policy
 		     7.     How to use the device
-		B.    Features (towards int¡¯ tourists)
+		     
+		B.    Features (towards int' tourists)
 		     1.    Minimize paperwork 
 		     2. Lightweight 
 		     3. Waterproof & bulletproof 
@@ -37,18 +38,18 @@
 		--Communicate with customers 
 		--Email & contract name, 
 		--Extension 
-
-Simple - Website 
-Carrier → do not 
+		--Simple - Website 
+		--Carrier → do not 
  
-C.    Find Carriers
-1.     unlock sim-card (CD-M)
-a)    GSM Carrier
-(1)  T-Mobile, AT&T
-2.     Unlimited data ( LTE) for limited amount of data and 3G for the remaining, hence unlimited.
+		C.    Find Carriers
+		     1.     unlock sim-card (CD-M)
+			a)    GSM Carrier
+			(1)  T-Mobile, AT&T
+		     2.     Unlimited data (LTE) for limited amount of data 
+		     and 3G for the remaining, hence unlimited.
  
-Brainstorming
-Features
+	<b>Brainstorming<\b>
+	Features
  
-Wifi-Darkzone
-1.     Underground (subway)
+	<b>Wifi-Darkzone<\b>
+	1.     Underground (subway)
