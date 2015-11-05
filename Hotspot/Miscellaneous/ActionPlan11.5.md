@@ -90,9 +90,9 @@
 <p>Bob:</p> 
 <p>--Github Page Design (Monday Night) </p>
 <p>--Feature & Infographic (Monday Night)</p>
-<p>   Action Plan Chart </p>
-<p>   Feature Chart </p>
-<p>   Dimension Chart</p>
+<p>      Action Plan Chart </p>
+<p>      Feature Chart </p>
+<p>      Dimension Chart</p>
 <p>Chris</p>
 <p>--Animation (Gif) </p>
 <p>--What to put in the video & research (Friday night) </p>
