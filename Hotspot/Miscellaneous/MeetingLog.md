@@ -9,7 +9,7 @@
 	     1.     Gains
 	     2.     Pains
 
-<b>II. What's next?<\b>
+<b>II. What's next?
        
        A.    Plan
          1.     Design the product (Autocad)
@@ -51,8 +51,8 @@
         2.     Unlimited data (LTE) for limited amount of data 
 	     and 3G for the remaining, hence unlimited.
 
-<b>Brainstorming<\b>
+<b>Brainstorming
 Features
  
-<b>Wifi-Darkzone<\b>
+<b>Wifi-Darkzone
 1.     Underground (subway)
