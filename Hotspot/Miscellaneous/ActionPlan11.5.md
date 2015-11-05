@@ -1,14 +1,21 @@
 # Action Steps 
-<blue>I. Phase 1 (Brainstorm) Due date 29/10/2015 (Thursday) </blue>
+
+<h3>I. Phase 1 (Brainstorm) Due date 29/10/2015 (Thursday) </h3>
+
 <b>  A. Value Proposition </b>
+
 	1. Pains/Gains/Customer Segment 
 	2. Name of the product 
 	3. Interview (this weekend) 
 	4. Mass Facebook Survey Data 
 	    a) https://www.surveymonkey.com/blog/2015/03/18/2-tips-get-actionable-targeted-feedback-business/
+
 <b>  B. Features</b>
-<blue>II. Phase 2 (Designing) Due date 01/11/2015 (Next Monday) </blue>
+
+<h3>II. Phase 2 (Designing) Due date 01/11/2015 (Next Monday) </h3>
+
 <b>  A. Design </b>
+
 Autocad 
 Logo
 Group decision
