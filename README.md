@@ -29,5 +29,6 @@ Mobile hotspots are also sold, but these visitors typically do not know where to
 1) Preliminary design of the product (just the cylinder with the buttons and display) using CAD and rendering using a 3-D Printer.  
 2) Go to Times Square/ The HighLine and talk to visitors, quickly going over the features and showing them the product, and asking for their opinions.  
 3) Deciding the carrier – It has to be one which is a GSM carrier, since only those provide sim cards, unlike CDMA carriers like Verizon and Sprint. This narrows it down to AT&T and T-Mobile.
-tentative website: http://traspot.weebly.com
+
+Tentative website: http://traspot.weebly.com
 
