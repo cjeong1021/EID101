@@ -1,10 +1,10 @@
 # Value Proposition for Smart Hotspot (EID 101D: Smart, Connected Devices)
 
-<h1>Customer Segment:</h1> 
+<h3>Customer Segment:</h3> 
 
 International visitors in New York City, between a younger age range of 18-35, looking to stay for a short period of time (1-4 weeks) in the city, who do NOT already have a carrier in the United States (such as AT&T, Verizon or T-Mobile). 
 
-<h1>Pains:</h1> 
+<h3>Pains:</h3> 
 
 Due to the short duration of their stay in New York City, these visitors are often forced to use the free Wi-Fi restricted to their hotels and <b>do not have any Wi-Fi access outside the hotel.</b> Being tourists/businessmen, they <b>spend the majority of their time outside the hotel</b>, and once again, <b>without any internet access</b>. 
 
