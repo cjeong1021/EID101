@@ -1,6 +1,6 @@
 # Action Steps 
 <blue>I. Phase 1 (Brainstorm) Due date 29/10/2015 (Thursday) </blue>
-\t<b>A. Value Proposition </b>
+&#09;<b>A. Value Proposition </b>
 \t\t1. Pains/Gains/Customer Segment 
 \t\t2. Name of the product 
 \t\t3. Interview (this weekend) 
