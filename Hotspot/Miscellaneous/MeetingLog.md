@@ -10,10 +10,11 @@
 	     2.     Pains
 
 <b>II. What's next?<\b>
+       
        A.    Plan
-             1.     Design the product (Autocad)
-             2.     Design Logo
-	     3.     Design Poster (needed for pitching)
+       1.     Design the product (Autocad)
+       2.     Design Logo
+       3.     Design Poster (needed for pitching)
 	     4.     Device features
 	     5.     Instructions
 	     6.     Return Policy
