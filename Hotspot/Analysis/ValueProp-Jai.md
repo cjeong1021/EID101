@@ -12,7 +12,7 @@ Preliminary interviews conducted at popular tourist spots like Times Square and 
 
 Mobile hotspots are also sold, but these visitors typically do not know where to buy these hotspots from or do not want to go through the paperwork/ find them inconvenient to carry around due to their design. 
 
-<b>Features of our device (Gains) : </b>
+<h3>Features of our device (Gains) : </h3>
 
 1)	<b>Minimized paperwork/contract signing.</b> The rental policy on the hotspot is flexible, and the process is quick. Customers merely have to pay the cost of their chosen data plan upfront, along with a deposit (however, much smaller than that commercial carriers ask for). Since 90% of these visitors will be leaving NYC using the airport, they can simply return the device on their way out of the country. 
 
@@ -32,7 +32,7 @@ Mobile hotspots are also sold, but these visitors typically do not know where to
 
 9)	<b>Data plan.</b> Varied data plans exist, and customers can choose whichever one best accommodates their duration of stay in New York City. There is LTE speed for the fixed GB of data they choose, and after they exhaust this, they have unlimited access to data at 3G speeds. 
 
-<b>Future Plans - </b>
+<h3>Future Plans - </h3>
 
 1)	Preliminary design of the product (just the cylinder with the buttons and display) using CAD and rendering using a 3-D Printer. (By Thursday) 
 
