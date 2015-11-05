@@ -4,11 +4,11 @@
 
 <b>  A. Value Proposition </b>
 
-   <p>1. Pains/Gains/Customer Segment 
-2. Name of the product 
-3. Interview (this weekend) 
-4. Mass Facebook Survey Data 
-  a) https://www.surveymonkey.com/blog/2015/03/18/2-tips-get-actionable-targeted-feedback-business/</p>
+   <p>1. Pains/Gains/Customer Segment </p>
+   <p>2. Name of the product </p>
+   <P>3. Interview (this weekend) </p>
+   <p>4. Mass Facebook Survey Data </p>
+       <p> a) https://www.surveymonkey.com/blog/2015/03/18/2-tips-get-actionable-targeted-feedback-business/</p>
 
 <b>  B. Features</b>
 
