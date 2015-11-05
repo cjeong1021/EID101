@@ -1,4 +1,4 @@
-# EXECUTIVE SUMMARY OF EVENTS FOR WI-FI HOTSPOT: 
+<title> EXECUTIVE SUMMARY OF EVENTS FOR WI-FI HOTSPOT: </title>
 <h2> I. What we have done </h2>
   <h3>A. Customer Segment</h3>
 
@@ -20,9 +20,10 @@
    <b><p>h. Location.</b> Very convenient, at the airport, visible when they are walking out of the terminal.</p>
    <b><p>i. Data plan.</b> Varied data plans exist, and customers can choose whichever one best accommodates their duration of stay in New York City. There is LTE speed for the fixed GB of data they choose, and after they exhaust this, they have unlimited access to data at 3G speeds.</p>
 
-<h2>Current Stage:</h2>
+<h2>II. Current Stage:</h2>
   <h3>A. Weebly </h3>
     1. http://traspot.weebly.com
+    
     2. Github Page (Landing page for advertising the product)
   <h3>B. Autocad & Solid Work</h3>
   Screenshot of design
