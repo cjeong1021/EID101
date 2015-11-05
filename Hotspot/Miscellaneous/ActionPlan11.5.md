@@ -107,27 +107,29 @@
 <p>--Organize github (Weekend) </p>
 
 
-Stage 3 Video Designing & Prepare for our Final Pitching 
-09/11/2015 - 16/11/2015 
+<h2>Stage 3 Video Designing & Prepare for our Final Pitching 09/11/2015 - 16/11/2015 </h3>
 
-Things to Do 
-Video Designing 
+<p>Things to Do </p>
+<p>Video Designing </p>
 
 
-ROLES
+<b>ROLES</b>
 
-Bob: 
-Github Page Design (Monday Night) 
-Feature & Infographic (Monday Night)
-Chris
-Animation (Gif) 
-What to put in the video & research (Friday night) 
-Jai
-Write for Github Page 
-
-Paul
-Solid Work (Wednesday) 
-Presentation (Wednesday) 
-Jimmy 
-Organize github (Weekend) 
-
+<p>Bob:</p> 
+<p>--Github Page Design (Monday Night) </p>
+<p>--Feature & Infographic (Monday Night)</p>
+<p>   Action Plan Chart </p>
+<p>   Feature Chart </p>
+<p>   Dimension Chart</p>
+<p>Chris</p>
+<p>--Animation (Gif) </p>
+<p>--What to put in the video & research (Friday night) </p>
+<p>Jai</p>
+<p>--Value Proposition (Done) </p>
+<p>--Interview During the weekend, specifically hotspot related (Weekend) </p>
+<p>--Brainstorm how we are going to pitch at the airport (Weekend)</p>
+<p>Paul</p>
+<p>--Solid Work (Wednesday) </p>
+<p>--Presentation (Wednesday) </p>
+<p>Jimmy </p>
+<p>--Organize github (Weekend) </p>
