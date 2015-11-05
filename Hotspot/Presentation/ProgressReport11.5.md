@@ -17,13 +17,16 @@
    <b><p>e. Battery life.</b> Lithium ion batteries that can be recharged with your laptop through USB or with a quick charger (sold separately) that charges the hotspot up to 70% battery in 15 minutes. Also, device automatically shuts off when connection not being used for 2-3 minutes.</p>
    <b><p>f. Amplifying design.</b> The combination of the circular design and the metal used to build this hotspot automatically strengthens the signal and maintains a steady connection with little variance in signal strength. (Needs more research).</p>
    <b><p>g. Economically priced.</b> The price is lower than market products using the same data plan, but the materials used are low cost to ensure a >50% margin.</p>
-   <b><p>Location.</b> Very convenient, at the airport, visible when they are walking out of the terminal.</p>
-   <b><p>Data plan.</b> Varied data plans exist, and customers can choose whichever one best accommodates their duration of stay in New York City. There is LTE speed for the fixed GB of data they choose, and after they exhaust this, they have unlimited access to data at 3G speeds.</p>
-Current Stage
-  A. Weebly 
+   <b><p>h. Location.</b> Very convenient, at the airport, visible when they are walking out of the terminal.</p>
+   <b><p>i. Data plan.</b> Varied data plans exist, and customers can choose whichever one best accommodates their duration of stay in New York City. There is LTE speed for the fixed GB of data they choose, and after they exhaust this, they have unlimited access to data at 3G speeds.</p>
+
+<h2>Current Stage:</h2>
+  <h3>A. Weebly </h3>
     1. http://traspot.weebly.com
     2. Github Page (Landing page for advertising the product)
-  B. Autocad & Solid Work
+  <h3>B. Autocad & Solid Work</h3>
   Screenshot of design
-  C. 3D Printed Prototype of the device without any hardware inside, just the outside for customer reviews. 
-  D. Conducting more tourist interviews this weekend at Times Square and the Highline using the 3D printed prototype. 
+  <h3>C. Prototyping </h3>
+  3D Printed Prototype of the device without any hardware inside, just the outside for customer reviews. 
+  <h3>D. Interviews</h3>
+  Conducting more tourist interviews this weekend at Times Square and the Highline using the 3D printed prototype. 
