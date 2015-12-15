@@ -1,1 +1,1 @@
-README FOR NAVIBIKE
+This is our initial idea, NAVIBIKE.
