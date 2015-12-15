@@ -34,7 +34,7 @@ As stated above, we decided to make a waterproof hotspot device with a temporary
 
 ![image](https://cloud.githubusercontent.com/assets/14918389/11812368/e3807310-a37e-11e5-8690-53155a624580.png)
 
-<t3> Features: </t3>
+<t2> Features: </t2>
 
 Sturdy Aluminum Design
 
