@@ -48,7 +48,6 @@ A Hotspot device is something that already exists in the market. T-Mobile indeed
 
 SPOTRA, on the other hand, requires no contracts and uses passport information as collateral instead of deposits, giving instant access to LTE data. So, to implement this, we provide a rental service. Tourists can pick up SPOTRA at the primary arrival terminals, choose a plan, use it and return it at a SPOTRA vending machine located at departure terminals.
 
-In addition, SPOTRA fits in pocket very well. It’s waterproof, and has quick charging ability. 
 
 # Support Us
 
