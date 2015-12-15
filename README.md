@@ -49,4 +49,6 @@ Landing Video: https://www.youtube.com/watch?v=SRhdX_QldaU
 
 Landing Webpage: http://bobleesj.github.io/realspotra/
 
+github: https://github.com/cjeong1021/EID101
+
 Please support us! Thank you!
