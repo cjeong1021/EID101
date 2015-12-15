@@ -36,6 +36,7 @@ Features of SPOTRA include:
 
 Sturdy Aluminum Design, Waterproof, Quick Charging, and Share connection.
 
+
 ![image](https://cloud.githubusercontent.com/assets/14918389/11812368/e3807310-a37e-11e5-8690-53155a624580.png)
 
 
