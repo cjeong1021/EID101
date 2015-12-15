@@ -30,7 +30,21 @@ Those international tourists come to New York City, primarily relying on Hotel W
 
 As stated above, we decided to make a waterproof hotspot device with a temporary sim card, allowing a hotspot to connect with the tourists smartphone. We also added different features including Amplifying design, Data plan, and Lightweight to our product. We also allowed rentals to economize the product.
 
-![image](https://cloud.githubusercontent.com/assets/14918389/11812285/53db05d6-a37e-11e5-813d-c81d85c5411f.png)![image](https://cloud.githubusercontent.com/assets/14918389/11812368/e3807310-a37e-11e5-8690-53155a624580.png)![s46 eat gkb u367w w010](https://cloud.githubusercontent.com/assets/14918389/11812752/0aa5411c-a381-11e5-92ab-b4a6bf62cbff.png)
+![image](https://cloud.githubusercontent.com/assets/14918389/11812285/53db05d6-a37e-11e5-813d-c81d85c5411f.png)
+
+![image](https://cloud.githubusercontent.com/assets/14918389/11812368/e3807310-a37e-11e5-8690-53155a624580.png)
+
+Features: 
+
+Sturdy Aluminum Design
+
+Waterproof
+
+Quick Charging 
+
+Share connection
+
+![s46 eat gkb u367w w010](https://cloud.githubusercontent.com/assets/14918389/11812752/0aa5411c-a381-11e5-92ab-b4a6bf62cbff.png)
 
 
 
