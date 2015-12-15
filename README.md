@@ -3,7 +3,7 @@ Group Members: Paul Kang, Lee SangJoon (Bob), Christopher Jeong, Junxi (Jimmy) Z
 
 We are a group exploring possible products to provide hotspot services to international tourists in NYC.
 
-![ScreenShot](https://cloud.githubusercontent.com/assets/14917658/10501490/1f2a0fca-72b0-11e5-8149-4ac11e7d1862.png)
+![ytg g ea7ya 2_6 gz 98 w](https://cloud.githubusercontent.com/assets/14918389/11811143/f9848230-a376-11e5-8e3b-369454403fa1.png)
 
 # Where We Started
 
