@@ -34,15 +34,9 @@ As stated above, we decided to make a waterproof hotspot device with a temporary
 
 ![image](https://cloud.githubusercontent.com/assets/14918389/11812368/e3807310-a37e-11e5-8690-53155a624580.png)
 
-<t2> Features: </t2>
+Features of SPOTRA include: 
 
-Sturdy Aluminum Design
-
-Waterproof
-
-Quick Charging 
-
-Share connection
+Sturdy Aluminum Design, Waterproof, Quick Charging, and Share connection.
 
 ![s46 eat gkb u367w w010](https://cloud.githubusercontent.com/assets/14918389/11812752/0aa5411c-a381-11e5-92ab-b4a6bf62cbff.png)
 
