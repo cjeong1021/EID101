@@ -155,4 +155,5 @@ In conclusion, we developed a business outlook to engineering. We learned the pr
 (SLIDE 25)
 
 We failed, we learned from our errors and finally found a product-market fit. Thank you!
+
 ---------------------------------------END OF SCRIPT----------------------------
