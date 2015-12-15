@@ -1,4 +1,4 @@
-# EID101D: Spotra Group 
+# EID101D: SPOTRA Group 
 Group Members: Paul Kang, Lee SangJoon (Bob), Christopher Jeong, Junxi (Jimmy) Zhu, Jai Himatsingka. 
 
 We are a group exploring possible products to provide hotspot services to international tourists in NYC.
@@ -7,7 +7,9 @@ We are a group exploring possible products to provide hotspot services to intern
 
 # Where We Started
 
- NYC has a footfall of over 50 million tourists a year, consisting of approximately 42.9 million domestic visitors and 11.4 million international visitors. More than 500,000 people ride bicycles frequently in New York City. 
+ NYC has a footfall of over 50 million tourists a year, consisting of approximately 42.9 million domestic visitors and 11.4 million international visitors. More than 500,000 people ride bicycles frequently in New York City.
+ Initially, we assumed that tourists would face difficulty in navigating while biking and looking at a phone at the same time, and we decided to create an audio navigational device to solve their problem. However, interviews at Highline and Times Square revealed that biking is not the main method of transportation. It was due to the lack of protected bike lanes. Therefore bike navigation is not a true pain of tourists. There is no product market fit.
+ Meanwhile, we found that the most popular answer to “what are the major problems you face as a tourist in NYC?” has been the lack of access to reliable wi-fi.
 Due to the short duration of their stay in New York City, these visitors are often forced to use the free Wi-Fi restricted to their hotels and do not have any Wi-Fi access outside the hotel. Being tourists/businessmen, they spend the majority of their time outside the hotel, and once again, without any internet access. 
 
 # Targeted Customer Segment 
