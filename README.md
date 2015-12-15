@@ -26,6 +26,8 @@ Those international tourists come to New York City, primarily relying on Hotel W
 
 # Our Product
 
+
+
 As stated above, we decided to make a waterproof hotspot device with a temporary sim card, allowing a hotspot to connect with the tourists smartphone. We also added different features including Amplifying design, Data plan, and Lightweight to our product. We also allowed rentals to economize the product.
 
 # Challenges and Competitions Faced
