@@ -30,6 +30,9 @@ Those international tourists come to New York City, primarily relying on Hotel W
 
 As stated above, we decided to make a waterproof hotspot device with a temporary sim card, allowing a hotspot to connect with the tourists smartphone. We also added different features including Amplifying design, Data plan, and Lightweight to our product. We also allowed rentals to economize the product.
 
+![image](https://cloud.githubusercontent.com/assets/14918389/11812285/53db05d6-a37e-11e5-813d-c81d85c5411f.png)
+
+
 # Challenges and Competitions Faced
 
 A Hotspot device is something that already exists in the market. T-Mobile indeed, provides a hotspot for $20 a month. However, it requires 2 year contracts and security deposits and SSN requirement, which become deal breakers for tourists. 
