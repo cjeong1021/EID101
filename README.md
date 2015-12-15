@@ -41,6 +41,8 @@ SPOTRA, on the other hand, requires no contracts and uses passport information a
 
 In addition, SPOTRA fits in pocket very well. It’s waterproof, and has quick charging ability. 
 
+# Support Us
+
 Kickstarter Funding Page: https://www.kickstarter.com/projects/405530071/2002459044?token=5ca8148f
 
 Landing Video: https://www.youtube.com/watch?v=SRhdX_QldaU
