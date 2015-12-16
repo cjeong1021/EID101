@@ -1,1 +1,1 @@
-This is where we started--our initial idea, NAVIBIKE.
+The NaviBike Section of our Project is our intial idea, and details the research and value proposition we established before individual customer interivews disproved our hypothesis, and we realized that bike-riding is not a tourist's primary method of transportation. External issues such as safety concerns from the lack of protected bike lanes (bike lanes surrounded by concrete on both sides) were the reason behind tourist's preferring subway/walking to get around the city.
