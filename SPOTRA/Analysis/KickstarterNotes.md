@@ -1,6 +1,8 @@
-# Kickstarter Tips 
+# Pre KickStarter Research 
 
-A project page with a video and description that clearly describe the story behind your project 
+5th December 2015
+
+Clearly Describe the story behind your project.
 
 Imaine explaining your project to a friend. How to show that you are serious, prepared, and capable of doing a great job? 
 
