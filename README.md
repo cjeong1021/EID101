@@ -9,7 +9,7 @@ We are a group exploring possible products to provide hotspot services to intern
 
  NYC has a footfall of over 50 million tourists a year, consisting of approximately 42.9 million domestic visitors and 11.4 million international visitors. More than 500,000 people ride bicycles frequently in New York City.
 
- Initially, we assumed that tourists would face difficulty in navigating while biking and looking at a phone at the same time, and we decided to create an audio based navigational device to solve their problem. However, Interviews at The Highline and Times Square revealed that biking is not the main method of transportation. It was due to the lack of protected bike lanes. Therefore bike navigation is not a true pain of tourists. There is no product market fit.
+ Initially, we assumed that tourists would face difficulty in navigating while biking and looking at a phone at the same time, and we decided to create an audio based navigational device to solve their problem. However, Interviews at The Highline and Times Square revealed that biking is not the main method of transportation. The lack of protected bike lanes made tourists feel unsafe while biking, and hence bike navigation was not a preferred method. 
 
  Meanwhile, we found that the most popular answer to “what are the major problems you face as a tourist in NYC?” has been the lack of access to reliable wi-fi.
 
