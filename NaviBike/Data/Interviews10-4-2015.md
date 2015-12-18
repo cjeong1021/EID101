@@ -1,5 +1,9 @@
 INTERVIEW'S on 6th October 2015.  
 
+# Summary of Information 
+
+The Interviews detailed below disprove the hypothesis we based our project on, in assuming that bike ridership would be a preference amongst tourists. Most of them prefer a combination of subway/walking, and the lack of protected bike lanes makes biking in the city not worth risking their life.
+
 # First Interview (Chris)
 
 ●	He is from Canada and late 20s 
