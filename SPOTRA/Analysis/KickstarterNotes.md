@@ -2,41 +2,25 @@
 
 5th December 2015
 
-Clearly Describe the story behind your project.
+# Overall 
 
-Imaine explaining your project to a friend. How to show that you are serious, prepared, and capable of doing a great job? 
+Clearly Describe the story behind your project. Imagine explaining your project to a friend. How to show that you are serious, prepared, and capable of doing a great job? 
 
-Who are you? - any work you’ve done (show examples) 
+Who are you? - any work you’ve done (show examples). What are you planning to make? Sketches, samples, prototypes  (nice gentle intriguing music). Where did this project come from? 
 
-What are you planning to make? 
+Budget detailing. Explain why the Kickstarter community should support you!
 
-sketches, samples, prototypes  (nice gentle intriguing music) 
-
-Where did this project come from? 
-
-What’s your plan, what’s your schedule
-
-What’s your budget? 
-
-Why do you care? 
-
-Features 
-
-What makes a good kickstarter page
-
-visual
-
-make sure your thumbnail is attractive and clickable 
+Make sure your thumbnail is attractive and clickable 
 
 # Creating  A Video 
 
 Zoom and focus on the person
 
-background is classic 
+Background is classic 
 
-you can use an iphone camera but do not use its mic 
+You can use an iphone camera but do not use its mic. 
 
-Autocad design
+# Autocad design
 
 Our working for the system 
 
