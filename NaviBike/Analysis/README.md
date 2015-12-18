@@ -1,0 +1,1 @@
+The Analysis section of Navi-Bike details the individual research undertaken in the different segments of Navi-Bike. We try to break down the business model into components such as the value proposition, customer segments, potential competitors, pricing mechanism, design etc. 
