@@ -1,6 +1,6 @@
 INTERVIEW'S on 6th October 2015.  
 
-# First Interview (Conducted by Bob)
+# First Interview (Chris)
 
 ●	He is from Canada and late 20s 
 
@@ -10,7 +10,7 @@ INTERVIEW'S on 6th October 2015.
 
 ●	He is a bike rider at his home country.
 
-# Second Interview (Conducted by Chris)
+# Second Interview (Bob)
 
 ●	He is from Russia and plans to live in the city for a week 
 
@@ -18,8 +18,7 @@ INTERVIEW'S on 6th October 2015.
 
 ●	He finds subways very crowded, but other than that, he finds it useful to use subways. 
 
-# Third Interview (Conducted by Bob)
-
+# Third Interview (Bob)
 ●	He is from a tourist from Germany
 
 ●	He relies on Wifi, not personal hotspot in NYC which is very inconvenient. 
@@ -32,9 +31,7 @@ INTERVIEW'S on 6th October 2015.
 
 ●	He wants to ride a bike especially in Central Park, and he looks forward to borrow a bike from a rental place. 
 
-# Fourth Interview (Conducted by Jai)
-
-Person #1 (Approx. 4 minutes) (Times Square)
+# Fourth Interview (Jai)
 
 ·         He is from China, here on a 3 week vacation to tour the city.
 
@@ -46,7 +43,7 @@ Person #1 (Approx. 4 minutes) (Times Square)
 
 ·         He is a bike (bicycle) rider in China, it is rather popular where he stays. He would love to find an economical rental for a bicycle, but he finds the prospect of biking in New York City scary due to his unfamiliarity with the city and its unsafe regions, and the huge amount of cars compared to bike lanes.
 
-# Fifth Interview (Approx. 5 minutes) (Times Square)
+# Fifth Interview (Jai)
 
 ·         He is from London, on an internship, and he does want to enjoy all the tourist spots of the city before heading back home.
 
@@ -60,7 +57,7 @@ Person #1 (Approx. 4 minutes) (Times Square)
 
 ·         He would prefer not to bike in the city because he feels it can be extremely exhausting and he wouldn’t wanna pass through some of the more “risky” neighborhoods.
 
-# Sixth Interview (Approx. 8 minutes) (Near Times Square) 
+# Sixth Interview (Jai)
 
 ·         She is a local in New York City, appearing to be in her mid 20’s.
 
