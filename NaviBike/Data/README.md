@@ -1,1 +1,1 @@
-Raw data for Navi-bike
+The Data section of NaviBike shows the raw data we collected from the interviews conducted at the HighLine and Times Square, and also graphically represents some of the important data, such as bike ridership statistics. 
