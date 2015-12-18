@@ -1,1 +1,1 @@
-README MISCELLANEOUS
+These files contain all the information from the most important three group meetings in November and December, and plan out the stages of SPOTRA up to the finals presentation, assigning every team member tasks to do. 
