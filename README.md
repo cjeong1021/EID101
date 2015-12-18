@@ -23,6 +23,9 @@ Our customer segment could broadly be classified as International visitors in Ne
 
 Those international tourists come to New York City, primarily relying on Hotel Wi-fi to use the internet. But when outside the hotels, they typically do not go for domestic carrier plans due to the expense and inefficiency of buying one, and the detailed contracts required for the relatively smaller time period they spend in the city.  
 
+# WHY MAKE SOMETHING THAT ALREADY EXISTS? 
+
+Its true, T-Mobile rents these hotspots out for $20 a month. But, there ARE strings attached, including a 2 year contract, which racks your bill up to $(24 x 20) = $580. The security deposit is another $200 since most international visitors do not have a Social Security Number, which gives you a bill of $780. Not so wise, is it? 
 
 # Our Product
 
@@ -34,7 +37,7 @@ So, we decided to make a portable hotspot device with a temporary sim card, to a
 
 Features of SPOTRA include: 
 
-Sturdy Aluminum Design, Waterproof, Quick Charging, and Share connection.
+Sturdy Aluminum Design, Waterproof nature, Quick Charging ability, and Ability to share your connection with up to 5 users!
 
 
 ![image](https://cloud.githubusercontent.com/assets/14918389/11812368/e3807310-a37e-11e5-8690-53155a624580.png)
