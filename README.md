@@ -28,7 +28,7 @@ Those international tourists come to New York City, primarily relying on Hotel W
 
 ![image](https://cloud.githubusercontent.com/assets/14918389/11812212/de76c97e-a37d-11e5-9a01-bfcec20ae569.png)
 
-As stated above, we decided to make a waterproof hotspot device with a temporary sim card, allowing a hotspot to connect with the tourists smartphone. We also added different features including Amplifying design, Data plan, and Lightweight to our product. We also allowed rentals to economize the product.
+So, we decided to make a portable hotspot device with a temporary sim card, to allow the tourists reliable LTE data on the go in all 5 boroughs of New York. Our hotspot comes with exclusive features, such as a compact sturdy and lightweight design, water-resistant and with quick charging ability that charges the hotspot up to 70% in 15 minutes or less. SPOTRA is also sold exclusively on a rental basis, such that you can pick it up on your way out of the airport, choose your plan, pay for it (NO security deposits and NO contracts!) and return it at a SPOTRA vending machine at the airport on your way out of the city!.
 
 ![image](https://cloud.githubusercontent.com/assets/14918389/11812285/53db05d6-a37e-11e5-813d-c81d85c5411f.png)
 
