@@ -1,50 +1,3 @@
-# notes
-
-Logo 
-
-Fading 
-
-Petrillo face come up 
-
-Funny
-
-Problem 
-
-Describe the product 
-
-Describe our team 
-
-What our product good 
-
-Why do we need your money  
-
-His face on the right coner 
-
-Zoom the product 
-
-how it is being done
-
-making coffee 
-
-Music nice behind even during the time b
-
-Prototype 
-
-
-# Script - 
-
-Introduce ourselves
-
-Describe the problem
-
-Introduce the product
-
-Brief overview of product
-
-Business model
-
-Why money is needed
-
 # Plan
 
 Tonight - Order hotspot
@@ -69,9 +22,6 @@ Saturday 11/28 - Interview at JFK with both functional/ugly and nonfunctional/pr
 
 	Leave a hole in the case so we can reach the power button
 	
-
-
-
 # For Website 
 
 Dimensioning (Tomorrow night) 
