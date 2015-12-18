@@ -45,14 +45,7 @@ Sturdy Aluminum Design, Waterproof nature, Quick Charging ability, and Ability t
 
 ![s46 eat gkb u367w w010](https://cloud.githubusercontent.com/assets/14918389/11812752/0aa5411c-a381-11e5-92ab-b4a6bf62cbff.png)
 
-# Challenges and Competitions Faced
-
-A Hotspot device is something that already exists in the market. T-Mobile indeed, provides a hotspot for $20 a month. However, it requires 2 year contracts and security deposits and SSN requirement, which become deal breakers for tourists. 
-
-SPOTRA, on the other hand, requires no contracts and uses passport information as collateral instead of deposits, giving instant access to LTE data. So, to implement this, we provide a rental service. Tourists can pick up SPOTRA at the primary arrival terminals, choose a plan, use it and return it at a SPOTRA vending machine located at departure terminals.
-
-
-# Support Us
+# Support Us and Do Visit our Page!: 
 
 Kickstarter Funding Page: https://www.kickstarter.com/projects/405530071/2002459044?token=5ca8148f
 
@@ -60,6 +53,6 @@ Landing Video: https://www.youtube.com/watch?v=SRhdX_QldaU
 
 Landing Webpage: http://bobleesj.github.io/realspotra/
 
-github: https://github.com/cjeong1021/EID101
+Github: https://github.com/cjeong1021/EID101
 
 Please support us! Thank you!
