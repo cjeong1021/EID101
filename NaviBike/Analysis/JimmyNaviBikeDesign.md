@@ -6,7 +6,7 @@ EID 101 D
 
 # NaviBike Audio-oriented navigation bike designed for tourists going to NYC
 
-<t2> Summary </t2>
+<h2> Summary </h2>
 
 According to NYC statistics, 54.3 million of tourists (international and domestic) came to NY in 2013, and this number has kept increasing for more than 12 years. How to get around for tours safely and conveniently (and cheaply) is every tourist's problem. A bike is very convenient for moving around NYC, and it is much cheaper than cabs, more flexible than tour bus, and gets more view than the subway. A tour bike would be very helpful in NYC for the tourists.
 
